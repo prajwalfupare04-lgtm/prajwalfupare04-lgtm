@@ -1,82 +1,60 @@
 <h1 align="center">Hi 👋, I'm Prajwal Fupare</h1>
-<h3 align="center">💻 CSE Student | Web Developer | AI Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prajwal%20Fupare&fontSize=40" />
-
----
-
-## 🚀 Welcome to my Digital Universe
-
-🎓 Computer Science Engineering Student  
-💡 Passionate about building real-world applications  
-🤖 Exploring Data Science, AI & Machine Learning  
-
-- 🔭 Currently working on AI-integrated web apps  
-- 🌱 Learning Backend Development & Machine Learning  
-- 💬 Ask me about Web Dev, Python, JavaScript  
-- ⚡ Fun fact: I love solving real-world problems with code  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Web+Developer;AI+%7C+ML+Enthusiast;Problem+Solver" />
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 👨‍💻 About Me
+- 🎓 CSE Student at SGGS Institute of Engineering & Technology, Nanded  
+- 💻 Skilled in Web Development and Programming  
+- 🤖 Exploring Data Science, AI & Machine Learning  
+- ⚡ Strong problem-solving & analytical thinking  
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
+---
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+## 🛠️ Tech Stack
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,mysql,mongodb,git,vscode" />
+</p>
 
 ---
 
 ## 📂 Projects
 
 ### 🧠 Smart Notes AI
-- AI-based notes management system with automatic summarization  
-- Secure authentication system  
-- Smart note organization for productivity  
+- AI-based notes system with automatic summarization  
+- Secure authentication & dashboard  
+- Improves productivity using intelligent organization  
 
 ### 💰 Billing Management System
 - Web-based billing system using PHP & MySQL  
 - Automated invoice generation  
-- Improved billing accuracy and reduced manual work  
+- Reduces manual effort and improves accuracy  
 
 ---
 
 ## 💼 Experience
 
-🧑‍💻 Intern – ITNetworkZ Infosystems Pvt. Ltd.  
-- Worked on real-world web development projects  
-- Hands-on experience in frontend & backend  
+**Intern – ITNetworkZ Infosystems Pvt. Ltd.**  
+- Worked on real-world web applications  
+- Experience in frontend & backend development  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalfupare04-lgtm&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalfupare04-lgtm&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=prajwalfupare04-lgtm&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=prajwalfupare04-lgtm&theme=tokyonight)
-
----
-
-## 📫 Connect with me
+## 📫 Connect with Me
 
 - 📧 Email: prajwalfupare04@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/prajwal-fupare-b6507b397  
@@ -84,5 +62,6 @@
 
 ---
 
-## 🌍 Languages
-English | Hindi | Marathi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+</p>
