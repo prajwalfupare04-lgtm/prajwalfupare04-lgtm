@@ -36,13 +36,7 @@
 
 ---
 
-## 💼 Experience
 
-**Intern – ITNetworkZ Infosystems Pvt. Ltd.**  
-- Worked on real-world web applications  
-- Experience in frontend & backend development  
-
----
 
 ## 📊 GitHub Stats
 
