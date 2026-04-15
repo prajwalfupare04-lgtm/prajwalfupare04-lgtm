@@ -30,7 +30,7 @@
 - Improves productivity using intelligent organization  
 
 ### 💰 Billing Management System
-- Web-based billing system using PHP & MySQL  
+- Web-based billing system using JavaScript,React,Css & NodeJs 
 - Automated invoice generation  
 - Reduces manual effort and improves accuracy  
 
